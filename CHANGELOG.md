@@ -1,5 +1,13 @@
 # Changelog
 
+## [15.60.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v15.60.0...v15.60.1) (2023-08-20)
+
+
+### Bug Fixes
+
+* **detect:** Detect `HK_DIM_A` as `HK-DIM-A` https://github.com/Koenkk/zigbee2mqtt/discussions/18634 ([05c8c04](https://github.com/Koenkk/zigbee-herdsman-converters/commit/05c8c047029c7e4d0ed073373428f4e7947d34d0))
+* **detect:** Detect `NimlyTouch` as Onesti Products AS easyCodeTouch_v1 ([#6096](https://github.com/Koenkk/zigbee-herdsman-converters/issues/6096)) ([bc58c71](https://github.com/Koenkk/zigbee-herdsman-converters/commit/bc58c71d71bff895c7c089e233bc26387984dfc5))
+
 ## [15.60.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v15.59.0...v15.60.0) (2023-08-20)
 
 
